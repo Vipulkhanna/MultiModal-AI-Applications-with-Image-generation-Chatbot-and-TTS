@@ -8,6 +8,9 @@ FlightAI is a multimodal AI-powered airline assistant that provides:
 🔊 Text-to-speech responses
 🤟 Sign language visualization (ASL-style hand animation)
 
+<img width="1529" height="1720" alt="127 0 0 1_7887__" src="https://github.com/user-attachments/assets/d081e38e-9f5d-4a79-9214-ce12e70476b4" />
+
+
 This version uses completely free models and APIs, making it easy to run locally without paid OpenAI access.
 
 🚀 Features
